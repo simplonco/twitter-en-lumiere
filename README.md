@@ -1,7 +1,7 @@
 Configuration
 -------------
 
-Crée un fichier oauth_key.rb avec des clés valides
+Modifier le fichier oauth_key.rb avec des clés valides
 
     TweetStream.configure do |config|
       config.consumer_key = 'XXXXX'

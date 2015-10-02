@@ -1,7 +1,7 @@
 load 'led.rb'
 load 'twitter.rb'
 
-Twitter.when(['#orange', "#simplon"]) do |tweet|
+Twitter.when(['#simplon']) do |tweet|
 
 end
 
